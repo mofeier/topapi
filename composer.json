@@ -1,0 +1,11 @@
+{
+    "name": "mofeier/topapi",
+    "description": "topapi php sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "mofeier\\Topapi\\": "src/"
+        }
+    },
+    "require": {}
+}
